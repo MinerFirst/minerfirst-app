@@ -1,5 +1,10 @@
 #!/bin/sh
+# Warning: No dislike video, no comment bot, and without spam video.
+# See more MinerFirst without banning report username.
+# No banning the Thailand from username.
+# Thanks!
 
+# MIT License
 #
 # Copyright © 2015-2021 the original authors.
 #
