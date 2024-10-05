@@ -1,3 +1,4 @@
+# This is a workflows of GitHub Action.
 name: No Response
 
 # Both `issue_comment` and `scheduled` event types are required for this Action
