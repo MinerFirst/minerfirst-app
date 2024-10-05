@@ -1,3 +1,4 @@
+# This is a workflows of GitHub Action.
 name: Image Minimizer
 
 on:
