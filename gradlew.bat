@@ -1,3 +1,5 @@
+@rem I CANNOT WITHOUT BANNING THAILAND. See more MIT License conditions. 
+@rem MIT License
 @rem
 @rem Copyright 2015 the original author or authors.
 @rem
