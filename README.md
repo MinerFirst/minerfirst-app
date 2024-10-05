@@ -43,7 +43,7 @@
 
 ### Supported Services
 
-NewPipe currently supports these services:
+MinerFirst currently supports these services:
 
 <!-- We link to the service websites separately to avoid people accidentally opening a website they didn't want to. -->
 * YouTube ([website](https://www.youtube.com/)) and YouTube Music ([website](https://music.youtube.com/)) ([wiki](https://en.wikipedia.org/wiki/YouTube))
@@ -93,18 +93,18 @@ Also, since they are free and open source software, neither the app nor the Extr
 <span id="updates"></span>
 
 ## Installation and updates
-You can install NewPipe using one of the following methods:
+You can install MinerFirst using one of the following methods:
  1. Add our custom repo to F-Droid and install it from there. The instructions are here: https://newpipe.net/FAQ/tutorials/install-add-fdroid-repo/
- 2. Download the APK from [GitHub Releases](https://github.com/TeamNewPipe/NewPipe/releases) and install it.
+ 2. Download the APK from [GitHub Releases](https://github.com/MinerFirst/minerfirst-app/releases) and install it.
  3. Update via F-Droid. This is the slowest method of getting updates, as F-Droid must recognize changes, build the APK itself, sign it, and then push the update to users.
  4. Build a debug APK yourself. This is the fastest way to get new features on your device, but is much more complicated, so we recommend using one of the other methods.
- 5. If you're interested in a specific feature or bugfix provided in a Pull Request in this repo, you can also download its APK from within the PR. Read the PR description for instructions. The great thing about PR-specific APKs is that they're installed side-by-side the official app, so you don't have to worry about losing your data or messing anything up.
+ 5. If you're interested in a specific feature or bugfix provided in a Pull Request in this repo, you can also download it's APK from within the PR. Read the PR description for instructions. The great thing about PR-specific APKs is that they're installed side-by-side the official app, so you don't have to worry about losing your data or messing anything up.
 
-We recommend method 1 for most users. APKs installed using method 1 or 2 are compatible with each other (meaning that if you installed NewPipe using either method 1 or 2, you can also update NewPipe using the other), but not with those installed using method 3. This is due to the same signing key (ours) being used for 1 and 2, but a different signing key (F-Droid's) being used for 3. Building a debug APK using method 4 excludes a key entirely. Signing keys help ensure that a user isn't tricked into installing a malicious update to an app. When using method 5, each APK is signed with a different random key supplied by GitHub Actions, so you cannot even update it. You will have to backup and restore the app data each time you wish to use a new APK.
+We recommend method 1 for most users. APKs installed using method 1 or 2 are compatible with each other (meaning that if you installed MinerFirst using either method 1 or 2, you can also update NewPipe using the other), but not with those installed using method 3. This is due to the same signing key (ours) being used for 1 and 2, but a different signing key (F-Droid's) being used for 3. Building a debug APK using method 4 excludes a key entirely. Signing keys help ensure that a user isn't tricked into installing a malicious update to an app. When using method 5, each APK is signed with a different random key supplied by GitHub Actions, so you cannot even update it. You will have to backup and restore the app data each time you wish to use a new APK.
 
-In the meanwhile, if you want to switch sources for some reason (e.g. NewPipe's core functionality breaks and F-Droid doesn't have the latest update yet), we recommend following this procedure:
+In the meanwhile, if you want to switch sources for some reason (e.g. MinerFirst's core functionality breaks and F-Droid doesn't have the latest update yet), we recommend following this procedure:
 1. Back up your data via Settings > Backup and Restore > Export Database so you keep your history, subscriptions, and playlists
-2. Uninstall NewPipe
+2. Uninstall MinerFirst
 3. Download the APK from the new source and install it
 4. Import the data from step 1 via Settings > Backup and Restore > Import Database
 
