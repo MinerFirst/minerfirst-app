@@ -1,8 +1,8 @@
-<h3 align="center">We are planning to <i>rewrite</i> large chunks of the codebase, to bring about <a href="https://github.com/TeamNewPipe/NewPipe/discussions/10118">a new, modern and stable MinerFirst</a>!</h3>
+<h3 align="center">We are planning to <i>rewrite</i> large chunks of the codebase, to bring about <a href="https://github.com/TeamNewPipe/NewPipe/discussions/10118">a new, modern and stable MinerVideo</a>!</h3>
 <h4 align="center">Please do <b>not</b> open pull requests for <i>new features</i> now, only bugfix PRs will be accepted.</h4>
 
-<h2 align="center"><b>MinerFirst</b></h2>
-<h4 align="center">MinerFirst with application video streaming.</h4>
+<h2 align="center"><b>MinerVideo</b></h2>
+<h4 align="center">MinerVideo with application video streaming.</h4>
 
 <p align="center"><a href="https://f-droid.org/packages/org.schabi.newpipe/"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/></a></p>
 
